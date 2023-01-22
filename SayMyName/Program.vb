@@ -4,6 +4,9 @@
 'Say My Name
 'https://github.com/pickchr2/SayMyName.git
 
+Option Explicit On
+Option Strict On
+
 Imports System
 
 Module Program
