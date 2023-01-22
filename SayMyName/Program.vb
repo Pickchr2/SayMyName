@@ -1,6 +1,6 @@
-'Tim Rossiter
+'Christopher Pickens
 'RCET0265
-'Spring 2020
+'Spring 2023
 'Say My Name
 'https://github.com/pickchr2/SayMyName.git
 
@@ -12,5 +12,6 @@ Module Program
 
         Console.WriteLine("Hello. Please enter your name below to enter a contest to win 42 Bitcoin!")
         userName = Console.ReadLine
+        Console.WriteLine("Sorry " + userName + ", no luck this time.")
     End Sub
 End Module
