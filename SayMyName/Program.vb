@@ -8,6 +8,6 @@ Imports System
 
 Module Program
     Sub Main(args As String())
-
+        Console.WriteLine("Hello. Please enter your name below to enter a contest to win 42 Bitcoin!")
     End Sub
 End Module
